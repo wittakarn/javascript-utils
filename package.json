@@ -1,5 +1,5 @@
 {
-  "name": "javascript-utils",
+  "name": "@wittakarn/javascript-utils",
   "version": "1.0.0",
   "description": "",
   "main": "index.ts",
